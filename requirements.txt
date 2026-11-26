@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+fpdf2
+sentence-transformers
+spacy
+docx2txt
+PyPDF2
