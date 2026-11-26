@@ -437,4 +437,4 @@ elif menu == "Database":
 
 # ---------------- Footer ----------------
 st.markdown("---")
-st.markdown("<small style='color:gray;'>SkillGapAI • End-to-end pipeline • Developed by Suriya Varshan</small>", unsafe_allow_html=True)
+st.markdown("<small style='color:gray;'>SkillGapAI • End-to-end pipeline • Developed by Harika</small>", unsafe_allow_html=True)
